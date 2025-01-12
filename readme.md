@@ -47,7 +47,7 @@ This project simulates a virtual food ordering system where users can select foo
 
 ## Host Link
 
-Access the hosted project here: [Burger King Virtual Ordering System](<hosted-link>)
+Access the hosted project here: [Burger King Virtual Ordering System](https://amisha2912.github.io/BurgerKing-Franchise/)
 
 ## Ending
 
